@@ -36,7 +36,7 @@ int main (){
 	 		system("cls");
 	 		printf("Voce possui 9 tentativas\n");
 	 		break;
-	 	default: //mesma coisa q else
+	 	default: //else
 	 		NUM_TRY = 6;
 	 		system("cls");
 	 		printf("Voce possui 6 tentativas\n");
